@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.fragment.app.FragmentContainerView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fcv_main"
+    android:name="com.android.notes.ui.home.HomeFragment"
+    android:layout_width="match_parent"
+    android:background="@drawable/item_bg_image"
+    android:layout_height="match_parent" />
